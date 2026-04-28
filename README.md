@@ -1,14 +1,7 @@
 # Hi there, I'm ALPHA.logs 👋 / 你好，我是 ALPHA.logs 👋
-
-I am a developer, creator, and strategic analyst focusing on the intersection of algorithmic macro-investment and AI-driven visual arts. 
-我是一名开发者、创作者与策略分析师，专注于量化宏观投资与 AI 驱动的视觉艺术交汇领域。
-
-## 🚀 Core Focus | 核心领域
-
 ### 🎨 AI & Artistic Creation | 人工智能与艺术创作
 - 🔭 **Current Projects / 目前主导:** Building **SciClip Studio** & **ALPHA Director Station** — AI-integrated platforms for automated video creation and workflow management. *(构建自动化 AI 影视编导与素材工作流平台)*
 - 🎬 **Visual Aesthetics / 视觉探索:** Deeply engaged in advanced AI video generation (ComfyUI, Veo). Exploring physical realism, anatomical accuracy, and cinematic aesthetics inspired by classic Sci-Fi and 90s Wuxia films. *(深耕 AI 视频生成，注重物理级真实感，追求经典科幻与90年代武侠电影美学)*
-- 🖌️ **Brand Design / 品牌视觉:** Curating the "Silentt Potery" artistic project and storefront. *(运营“Silentt Potery”视觉与肌理艺术项目)*
 
 ### 📈 Investment & Advisory | 宏观投资与投顾工具
 - 📊 **Macro Analysis / 宏观分析:** Using Python for data-driven macro-economic tracking, geopolitical analysis, and strategic commodity market research (futures & options). *(利用 Python 进行数据驱动的宏观经济追踪、地缘政治分析与商品策略研究)*
