@@ -1,27 +1,34 @@
 # Hi there, I'm ALPHA.logs 👋 / 你好，我是 ALPHA.logs 👋
 
-I'm a developer, creator, and future UK postgraduate student (Fall 2026) passionate about the intersection of technology, humanities, and visual arts.
-我是一名开发者、创作者。
+I am a developer, creator, and strategic analyst focusing on the intersection of algorithmic macro-investment and AI-driven visual arts. 
+我是一名开发者、创作者与策略分析师，专注于量化宏观投资与 AI 驱动的视觉艺术交汇领域。
 
-## 🚀 About Me | 关于我
+## 🚀 Core Focus | 核心领域
 
-- 🔭 **Currently building / 目前主导:** **SciClip Studio** & **ALPHA Director Station** — AI-integrated platforms designed for automated video creation and workflow management. *(致力于开发涵盖 AI 视频自动化获取与编导工作流管理的集成平台)*
+### 🎨 AI & Artistic Creation | 人工智能与艺术创作
+- 🔭 **Current Projects / 目前主导:** Building **SciClip Studio** & **ALPHA Director Station** — AI-integrated platforms for automated video creation and workflow management. *(构建自动化 AI 影视编导与素材工作流平台)*
+- 🎬 **Visual Aesthetics / 视觉探索:** Deeply engaged in advanced AI video generation (ComfyUI, Veo). Exploring physical realism, anatomical accuracy, and cinematic aesthetics inspired by classic Sci-Fi and 90s Wuxia films. *(深耕 AI 视频生成，注重物理级真实感，追求经典科幻与90年代武侠电影美学)*
+- 🖌️ **Brand Design / 品牌视觉:** Curating the "Silentt Potery" artistic project and storefront. *(运营“Silentt Potery”视觉与肌理艺术项目)*
 
+### 📈 Investment & Advisory | 宏观投资与投顾工具
+- 📊 **Macro Analysis / 宏观分析:** Using Python for data-driven macro-economic tracking, geopolitical analysis, and strategic commodity market research (futures & options). *(利用 Python 进行数据驱动的宏观经济追踪、地缘政治分析与商品策略研究)*
+- 💡 **Upcoming / 计划中:** Planning to open-source custom data analysis scripts and develop AI-assisted investment advisory workflows. *(计划开源部分量化数据分析脚本，并开发 AI 辅助的投资顾问工作流)*
 
 ## 💻 Tech Stack & Tools | 技术栈与工具
 
-- **Languages / 语言:** Python, TypeScript, JavaScript
-- **Web Development / 前后端:** Next.js (App Router), React, Node.js, HTML/CSS
-- **AI & Visuals / 人工智能与视觉:** Google Gemini API, Google Veo, ComfyUI, Prompt Engineering
-- **Environment & Ops / 环境与运维:** VS Code, Git, Termux, Alibaba Cloud (阿里云)
-
-## 📈 GitHub Stats | 代码动态与统计
-
-![ALPHA.logs's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaohaoliang141-max&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&locale=cn)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaohaoliang141-max&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <br>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge&logo=github&logoColor=white" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 ## 📫 Let's Connect | 建立连接
 
-Keep an eye out for my insights on tech, macro analysis, and creative visuals under the public handle **ALPHA.logs**.
-欢迎通过 **ALPHA.logs** 关注我关于技术开发、宏观交易策略与视觉美学的内容输出与探索。
+Keep an eye out for my insights on macro trading strategies, AI workflow automation, and creative visuals under the handle **ALPHA.logs**.
+欢迎通过 **ALPHA.logs** 账号关注我关于宏观交易策略、AI 工作流自动化与视觉美学的深度探索。
